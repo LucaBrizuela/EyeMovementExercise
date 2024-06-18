@@ -15,4 +15,4 @@ This project involves animated eyes that follow the cursor movement. The eyes mo
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/LucaBrizuela/EyeMovementExercise/blob/main/LICENSE) file for details.
 
 ## Results 
-![eyes](EyeMovementExerciseExample.gif)
+![eyes](Eye-Movement-Exercise-Example.gif)
